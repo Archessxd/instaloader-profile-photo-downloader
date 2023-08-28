@@ -6,5 +6,5 @@ dependencies :
   2 - sys (its already exist in python)
 
   how to use : 
-    run "python main.py"
+    type to terminal : "python main.py"
 
