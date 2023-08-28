@@ -1,4 +1,3 @@
-# python-instaloader-cli
 this project is made for make downloading profile photos easy on instagram
 
 dependencies : 
