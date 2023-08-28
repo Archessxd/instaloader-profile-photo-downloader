@@ -1,4 +1,4 @@
-this project is made for make downloading profile photos easy on instagram
+this project is made for make downloading profile photos easy from instagram
 
 dependencies : 
   1 - Instaloader (pip install instaloader)
